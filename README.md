@@ -8,7 +8,7 @@ be given some messy references to earlier work
 have few opportunities to interact with the rest of the team given everyone is busy and the team is spread across time
 zones
 
-#dependencies
+# Dependencies
 1-csv lib
 2-Pandas lib
 3-datetime
