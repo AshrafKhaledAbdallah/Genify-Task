@@ -9,12 +9,12 @@ have few opportunities to interact with the rest of the team given everyone is b
 zones
 
 # Dependencies
-1-csv lib \n
-2-Pandas lib
-3-datetime
-4-operator
-5-numpy
-6-xgboost
-7-sklearn
-8-joblib
-9-flask
+1-csv lib   
+2-Pandas lib  
+3-datetime  
+4-operator  
+5-numpy  
+6-xgboost  
+7-sklearn  
+8-joblib  
+9-flask  
