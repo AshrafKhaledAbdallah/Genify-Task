@@ -7,3 +7,14 @@ and translate into system requirements
 be given some messy references to earlier work
 have few opportunities to interact with the rest of the team given everyone is busy and the team is spread across time
 zones
+
+#dependencies
+1-csv lib
+2-Pandas lib
+3-datetime
+4-operator
+5-numpy
+6-xgboost
+7-sklearn
+8-joblib
+9-flask
